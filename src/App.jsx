@@ -63,6 +63,20 @@ const PROJECTS = [
     img: "https://placehold.co/900x600/7ab8ff/ffffff?text=Quantum+RL",
     repo: "https://github.com/Abinaya-hub2006/Autonomous-vehicle-simulation-using-ML-and-Rl",
   },
+  {
+    id: 5,
+    title: "Remaining Useful Life (RUL) Prediction using TCN with Attention",
+    tech: [
+      "Python",
+      "PyTorch",
+      "TCN",
+      
+    ],
+    desc:
+      "Built an end-to-end Remaining Useful Life (RUL) prediction system using Temporal Convolutional Networks (TCN) with Attention on NASA CMAPSS time-series data. Developed optimized preprocessing pipelines, deployed the model using Flask REST APIs for real-time inference, and achieved approximately 13 RMSE on unseen engine degradation test data while exploring further model improvements.",
+    img: "https://placehold.co/900x600/7ab8ff/ffffff?text=RUL+Prediction",
+    repo: "https://github.com/Abinaya-hub2006/Remaining-useful-life-Prediction",
+  },
 ];
 
 /* ------------------ Certifications ------------------ */
